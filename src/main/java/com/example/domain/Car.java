@@ -1,4 +1,5 @@
 package com.example.domain;
 
-public clss Car {
+public class1 Car {
+
 }
